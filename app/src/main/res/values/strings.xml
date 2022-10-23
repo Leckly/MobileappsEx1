@@ -3,6 +3,8 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_hint">Podpowiedź</string>
+    <string name="button_show_hint">Pokaż odpowiedź</string>
 
     <string name="q_activity">Activity jest jednym z komponentów aplikacji Android</string>
     <string name="q_version">Android 8 jest najnowszą wesją systemu Android</string>
@@ -11,4 +13,8 @@
     <string name="q_find_resources">Do zasobów w aplikacji dla systemu Android odnosimy się po nazwach</string>
     <string name="incorrect_answer">Fałszywa odpowiedź</string>
     <string name="correct_answer">Poprawna odpowiedź</string>
+
+    <string name="hint_checkout">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 </resources>
